@@ -2,7 +2,6 @@ setuptools==69.0.2
 wheel==0.42.0
 streamlit==1.29.0
 pandas==2.0.0
-scikit-learn==0.22
 seaborn==0.12.2
 numpy==1.24.2
 plotly==5.18.0
